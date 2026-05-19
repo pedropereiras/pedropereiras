@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+## I'm a Database student at CESAR School. Passionate about data, security, and technology innovation.
 
 <!--
 **pedropereiras/pedropereiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

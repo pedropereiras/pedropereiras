@@ -24,7 +24,7 @@ Transito entre dados, design e código — construindo produtos que resolvem pro
 | Projeto | Descrição |
 |---|---|
 | **Vigia Recife** | Plataforma de inteligência urbana para a gestão pública do Recife — dashboards de KPIs, mapas SVG por bairro e analytics executivo |
-| **EcoVolt Analytics** | Plataforma para ciclo de vida de baterias de veículos elétricos — diagnóstico de saúde da bateria, marketplace e métricas de impacto ambiental |
+| <a href="https://github.com/lucaas783/ecovolt-analytics">**EcoVolt Analytics**</a> | Plataforma para ciclo de vida de baterias de veículos elétricos — diagnóstico de saúde da bateria, marketplace e métricas de impacto ambiental |
 
 
 <br>
